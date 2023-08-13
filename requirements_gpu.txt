@@ -1,0 +1,11 @@
+torch==2.0.1
+torchaudio==2.0.2
+torchvision==0.15.2
+jupyterlab==3.6.3
+onnx==1.14.0
+opencv-python==4.7.0.72
+pandas==2.0.1
+timm==0.4.12
+PyYAML==6.0
+onnxruntime-gpu==1.14.1
+torchmetrics==0.11.4
