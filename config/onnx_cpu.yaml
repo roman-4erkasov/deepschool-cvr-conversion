@@ -1,0 +1,11 @@
+providers: [CPUExecutionProvider]
+path: "weights/model.onnx"
+threshold: 0.5
+class_names: [
+    "agriculture","artisinal_mine", "bare_ground","blooming",
+    "blow_down","clear", "cloudy","conventional_mine", 
+    "cultivation","habitation", "haze","partly_cloudy", 
+    "primary","road", "selective_logging","slash_burn", "water"
+]
+input_name: 'input'
+output_name: 'output'

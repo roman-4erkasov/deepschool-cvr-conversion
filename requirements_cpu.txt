@@ -1,0 +1,12 @@
+torch
+torchaudio
+torchvision
+jupyterlab==3.6.3
+dvc-gdrive==2.19.2
+timm==0.4.12
+opencv-python==4.6.0.66
+onnxruntime==1.14.1
+onnx==1.14.0
+openvino-dev==2022.3.0
+PyYAML==6.0
+torchmetrics==0.11.4
